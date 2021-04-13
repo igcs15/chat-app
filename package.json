@@ -1,0 +1,11 @@
+{
+  "name": "message-me",
+  "private": true,
+  "dependencies": {
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "@prettier/plugin-ruby": "^0.20.1",
+    "prettier": "^2.1.1"
+  }
+}
